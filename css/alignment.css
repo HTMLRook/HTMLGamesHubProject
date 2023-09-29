@@ -1,0 +1,10 @@
+.centertopleft {
+  display: block;
+  margin-left: 20%;
+  margin-right: auto;
+  width: 50%;
+}
+
+.shadowbox {
+  text-shadow: 2px 2px 4px #000000;
+}

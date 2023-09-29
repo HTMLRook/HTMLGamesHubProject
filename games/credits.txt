@@ -1,0 +1,3 @@
+HTMLFlappybird: https://playcanv.as/p/2OlkUaxF/
+HTMLTetris: http://htmltetris.cz/
+HTMLSweeper: https://jfredrickson.github.io/minesweeper/minesweeper.canvas.html#
